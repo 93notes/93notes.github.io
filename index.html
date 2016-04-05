@@ -10,7 +10,7 @@ slug: "home"
       <h2 class="no-top-margin">Recent Notes</h2>
       <ul class='post_list'>
         {% assign posts = site.posts | exclude_post_category: 'speaking'%}
-        {% for post in posts limit:7 %}
+        {% for post in posts limit:12 %}
         <li class="post">
         <a href="{{ post.url }}">
           <div class="post__meta">
