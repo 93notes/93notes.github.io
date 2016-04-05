@@ -4,7 +4,7 @@
 url: http://www.blog.pradeepsingh.xyz
 name: 94 Miles
 description: Notes of a Young Social Entrepreneur from India.
-encoding: utf-8
+encoding: UTF-8
 permalink: /:categories/:title
 
 # Defaults
