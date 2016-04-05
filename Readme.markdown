@@ -1,6 +1,6 @@
-# 64 Notes Source Code
+# 94 Miles Source Code
 
-Source code for [94 Miles](http://blog.pradeepsingh.xyz) - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
+Source code for [94 Miles](http://www.blog.pradeepsingh.xyz) - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
 
 ## Using
 * [Jekyll](http://jekyllrb.com)
