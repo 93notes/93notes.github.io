@@ -113,7 +113,7 @@ function share_click(network, window_setting) {
     verb = 'facebook';
   } else {
     push_url = push_url + 'url=' + encodeURIComponent(page_url)
-      + '&via=kingsidharth&related=kingsidharth&text='
+      + '&via=nomadic_enggr &related=nomadic_enggr&text='
       + encodeURIComponent(page_title);
     verb = 'twitter';
   }

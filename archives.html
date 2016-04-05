@@ -1,9 +1,10 @@
 ---
 layout: page 
-title: Archives of 94 Miles
+title: Archives
 slug: archives
 ---
 <ul class="post_list">
+  
   {% assign posts = site.posts | exclude_post_category: 'speaking' %}
   {% for post in posts %}
   <li class="post">
