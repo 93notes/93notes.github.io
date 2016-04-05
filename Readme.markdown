@@ -1,6 +1,6 @@
 # 64 Notes Source Code
 
-Source code for [64 Notes](http://64notes.com) - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
+Source code for [94 Miles](http://blog.pradeepsingh.xyz) - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
 
 ## Using
 * [Jekyll](http://jekyllrb.com)
@@ -19,4 +19,4 @@ All other code bases and tech like Jekyll, HAML etc. follow their own license.
 
 --------
 
-[Got any questions, comments or threats?](http://twitter.com/kingsidharth)
+[Got any questions, comments or threats?](http://twitter.com/nomadic_enggr)
