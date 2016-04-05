@@ -9,7 +9,7 @@
     <meta charset="utf-8"> 
     <!-- scripts -->
     <!-- meta -->
-    <meta name="google-site-verification" content="K9OQiuncypaFig7doDL5AXVteG8pLNyWmumfkcCj3qA" />        
+    <!-- <meta name="google-site-verification" content="K9OQiuncypaFig7doDL5AXVteG8pLNyWmumfkcCj3qA" />        
 
     <meta property="fb:app_id"               content="171634969647127" />       
     {% if page.image %}
@@ -21,19 +21,19 @@
     <meta property="og:url"                  content="http://www.64notes.com{{ page.url }}/">
     <meta property="og:site_name"            content="{{ site.name }}">
     <meta property="og:title"                content="{{ page.title }}">
-    <meta property="article:author"          content="http://www.kingsidharth.com">
+    <meta property="article:author"          content="http://www.pradeepsingh.xyz">
     {% endif %}
     {% if page.slug == 'home' %}
     <meta property="og:type"                 content="website"> 
     <meta property="og:url"                  content="{{ site.url  }}"> 
     <meta property="og:title"                content="{{ site.name }}">
     {% endif %}
-    <!-- others -->
+    <!-- others --> 
     {% if page.category == 'talks' %}
-    <link rel="alternate" type="application/rss+xml" href="http://www.64notes.com/speaking/feed.xml" />            
+   <!-- <link rel="alternate" type="application/rss+xml" href="http://www.64notes.com/speaking/feed.xml" />            
     {% else %}
     <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/64Notes" />        
-    {% endif %}
+    {% endif %} -->
   </head>
   <body class="{{ page.slug }} {{ page.category }}" onload="return setTimeout('social_share_count()', 2000);"> 
     {% include header.html %}
