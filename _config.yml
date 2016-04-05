@@ -1,9 +1,9 @@
-# 64notes.com — Jekyll Configuration File
+# blog.pradeepsingh.xyz — Jekyll Configuration File
 
 # Site Settings
-url: http://www.64notes.com
-name: 64 Notes
-description: Notes of a Young Entrepreneur
+url: http://www.blog.pradeepsingh.xyz
+name: 94 Miles
+description: Notes of a Young Social Entrepreneur from India.
 encoding: utf-8
 permalink: /:categories/:title
 
