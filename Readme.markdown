@@ -1,6 +1,6 @@
 #  Source Code
 
-Source code for this blog is developed by Pradeep - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
+Source code for this blog is by King Sidharth. A huge shout out to him. (http://www.kingsidharth.com/) - built on [Jekyll](http://jekyllrb.com) & hosted on [GitHib](http://github.com).
 
 ## Using
 * [Jekyll](http://jekyllrb.com)
